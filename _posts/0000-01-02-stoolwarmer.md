@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+alex thaimei is the name
 Use the left arrow to go back!
